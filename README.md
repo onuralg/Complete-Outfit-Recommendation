@@ -1,7 +1,7 @@
 # Complete-Outfit-Recommendation
 
 
-Example results of complete outfit recommendation system. 
+Example results of complete outfit recommendation system. \\
 Whole recommendations for each product are available on FashionI.
 
 
