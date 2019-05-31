@@ -1,7 +1,8 @@
 # Complete-Outfit-Recommendation
 
 
-Example results for complete outfit recommendation. Whole recommendations for each product are available on FashionI.
+Example results of complete outfit recommendation system. Whole recommendations for each product are available on FashionI.
+
 
 AppStore: https://itunes.apple.com/tr/app/fashioni-find-your-fashion/id1398292864?mt=8
 
