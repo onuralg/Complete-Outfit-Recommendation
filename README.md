@@ -8,7 +8,7 @@ These outfits are generated among ~200k clothing products from more than 500 dif
 
 AppStore: https://itunes.apple.com/tr/app/fashioni-find-your-fashion/id1398292864?mt=8 <br/>
 Google Play: https://play.google.com/store/apps/details?id=com.mobillium.fashioni
-
+(Code is not publicly available)
 
 Women:
 ---
