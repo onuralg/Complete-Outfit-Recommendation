@@ -11,15 +11,14 @@ Google Play: https://play.google.com/store/apps/details?id=com.mobillium.fashion
 (Code is not publicly available)
 
 References:
-Learning Fashion Compatibility with Bidirectional LSTMs
-Learning Type-Aware Embeddings for Fashion Compatibility
-Outfit Generation and Style Extraction via Bidirectional LSTM and Autoencoder
-Learning Type-Aware Embeddings for Fashion Compatibility
-Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation
+Learning Fashion Compatibility with Bidirectional LSTMs <br/>
+Learning Type-Aware Embeddings for Fashion Compatibility <br/>
+Outfit Generation and Style Extraction via Bidirectional LSTM and Autoencoder <br/>
+Learning Type-Aware Embeddings for Fashion Compatibility <br/>
+Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation <br/>
 
 
-Results:
-Women:
+Results for Women:
 ---
 ![Example-1](images/21936163_2_2.png)
 ---
