@@ -1,8 +1,7 @@
 # Complete-Outfit-Recommendation
 
-
-Example results for complete outfit recommendation system. <br/>
-Whole recommendations for each product are available on FashionI.
+Example results and references for our complete outfit recommendation system. <br/>
+Whole recommendations for each product are available on FashionI app.
 
 These outfits are generated among ~200k clothing products from more than 500 different brands. 
 
@@ -11,6 +10,15 @@ Google Play: https://play.google.com/store/apps/details?id=com.mobillium.fashion
 
 (Code is not publicly available)
 
+References:
+Learning Fashion Compatibility with Bidirectional LSTMs
+Learning Type-Aware Embeddings for Fashion Compatibility
+Outfit Generation and Style Extraction via Bidirectional LSTM and Autoencoder
+Learning Type-Aware Embeddings for Fashion Compatibility
+Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation
+
+
+Results:
 Women:
 ---
 ![Example-1](images/21936163_2_2.png)
